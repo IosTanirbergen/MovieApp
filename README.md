@@ -1,2 +1,2 @@
 # MovieApp
-RestAPI,MVC,MVVM,Autolayouting,CleanCode
+RestAPI,MVC,Autolayouting
